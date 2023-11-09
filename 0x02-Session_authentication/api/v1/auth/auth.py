@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Definition class Auth
+Definition of class Auth
 """
 import os
 from flask import request
